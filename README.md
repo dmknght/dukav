@@ -1,3 +1,3 @@
 A small project to learn Duktape
 
-License: duktape: MIT
+Install duktape on Debian based system: `sudo apt install duktape-dev`

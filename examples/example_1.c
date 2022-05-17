@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../engine/duktape/duktape.h"
+#include "duktape.h"
 
 int main(int argc, char *argv[]) {
     duk_context *ctx = duk_create_heap_default();
