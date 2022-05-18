@@ -1,3 +1,8 @@
+/*
+ * Example 1 https://duktape.org/
+ * Just run a simple js
+ */
+
 #include <stdio.h>
 #include "duktape.h"
 
